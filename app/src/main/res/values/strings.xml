@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StudentPortal</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_required">Input required</string>
+</resources>
